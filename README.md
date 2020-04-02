@@ -2,8 +2,8 @@
 Simple electronic sign generator program based on Python
 
 # Environment
-matplotlib
-numpy
+- matplotlib
+- numpy
 
 # Transfer Examples
 <p float="left">
